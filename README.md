@@ -1,7 +1,16 @@
 # Modern Login Page
-This Project shows how to use modern HTML, CSS, and JavaScript to create a complete Login Page Design with Login and Sign up animations, using CSS Flexbox, CSS  transition for some cool animation effects and also CSS keyframes!
 
-# Screenshot
-Here we have project screenshot :
+Sign-in and sign-up forms on one card, with a sliding overlay to switch between them.
 
-![screenshot](screenshot.jpg)
+## Features
+
+- Animated switch between the two forms
+- Social login buttons (design only)
+
+## Run it
+
+No build step. Open `index.html` in a browser, or serve the folder with any static server, for example `python -m http.server`.
+
+## Screenshots
+
+![Modern Login Page screenshot](screenshot.jpg)
